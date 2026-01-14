@@ -1,6 +1,9 @@
 package com.finocio.practicas.credit.simulator.application;
 
+import com.finocio.practicas.credit.simulator.domain.CreditLimitExceededException;
+import com.finocio.practicas.credit.simulator.domain.InvalidCreditAmountException;
 import com.finocio.practicas.credit.simulator.domain.Ticket;
+import com.finocio.practicas.credit.simulator.domain.TicketStatus;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

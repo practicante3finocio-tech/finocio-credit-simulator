@@ -1,6 +1,6 @@
 package com.finocio.practicas.credit.simulator.ui;
 
-import com.finocio.practicas.credit.simulator.PrinterConfigurationService;
+import com.finocio.practicas.credit.simulator.application.PrinterConfigurationService;
 import com.finocio.practicas.credit.simulator.application.PrinterFactory;
 import com.finocio.practicas.credit.simulator.application.PurchaseCreditService;
 import com.finocio.practicas.credit.simulator.domain.*;
