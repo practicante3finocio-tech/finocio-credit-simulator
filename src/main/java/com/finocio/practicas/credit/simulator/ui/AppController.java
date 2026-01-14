@@ -1,10 +1,10 @@
 package com.finocio.practicas.credit.simulator.ui;
 
-import com.finocio.practicas.simulador.creditos.application.PrinterConfigurationService;
-import com.finocio.practicas.simulador.creditos.application.PrinterFactory;
-import com.finocio.practicas.simulador.creditos.application.PurchaseCreditService;
-import com.finocio.practicas.simulador.creditos.domain.*;
-import com.finocio.practicas.simulador.creditos.infrastructure.AbstractTicketPrinter;
+import com.finocio.practicas.credit.simulator.PrinterConfigurationService;
+import com.finocio.practicas.credit.simulator.application.PrinterFactory;
+import com.finocio.practicas.credit.simulator.application.PurchaseCreditService;
+import com.finocio.practicas.credit.simulator.domain.*;
+import com.finocio.practicas.credit.simulator.infrastructure.AbstractTicketPrinter;
 
 /**
  * Controlador principal de la aplicación de consola.
