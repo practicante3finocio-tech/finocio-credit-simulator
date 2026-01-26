@@ -20,4 +20,4 @@ Java project to simulate the purchase of credits, with ASCII ticket printing for
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/practicante3finocio-tech/finocio-credit-simulator.git>
+   git clone https://github.com/practicante3finocio-tech/finocio-credit-simulator.git
